@@ -1,0 +1,10 @@
+Total number of integers in dataset = 10000
+Time taken to create dataset = 0.052095651626586914
+Time taken to divide and store dataset = 0.05206894874572754
+Time taken to sort all partitions and store them = 0.20435333251953125
+Time taken to perform first level of merging = 0.07585835456848145
+Time taken to perform second level of merging = 0.07215762138366699
+Time taken to perform last level of merging = 0.08013439178466797
+Total time taken for complete external sort = 0.5165815353393555
+Total time taken to perform simple merge sort = 0.13585472106933594
+

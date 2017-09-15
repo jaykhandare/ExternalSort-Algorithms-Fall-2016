@@ -1,0 +1,81 @@
+Total number of integers in dataset = 20
+Time taken to create dataset = 0.00185704231262
+Time taken to divide and store dataset = 0.0320250988007
+Time taken to sort all partitions and store them = 0.0470328330994
+Time taken to perform first level of merging = 0.0202288627625
+Time taken to perform second level of merging = 0.00622987747192
+Time taken to perform last level of merging = 0.00311994552612
+Total time taken for complete external sort = 0.127043962479
+Total time taken to perform simple merge sort = 0.00133800506592
+
+Total number of integers in dataset = 100
+Time taken to create dataset = 0.00337696075439
+Time taken to divide and store dataset = 0.0309879779816
+Time taken to sort all partitions and store them = 0.0461568832397
+Time taken to perform first level of merging = 0.0205299854279
+Time taken to perform second level of merging = 0.00659418106079
+Time taken to perform last level of merging = 0.00360798835754
+Total time taken for complete external sort = 0.125710964203
+Total time taken to perform simple merge sort = 0.00189709663391
+
+Total number of integers in dataset = 1000
+Time taken to create dataset = 0.0117170810699
+Time taken to divide and store dataset = 0.0350370407104
+Time taken to sort all partitions and store them = 0.055107831955
+Time taken to perform first level of merging = 0.0460870265961
+Time taken to perform second level of merging = 0.0123960971832
+Time taken to perform last level of merging = 0.00938105583191
+Total time taken for complete external sort = 0.17588186264
+Total time taken to perform simple merge sort = 0.0101120471954
+
+Total number of integers in dataset = 10000
+Time taken to create dataset = 0.103260040283
+Time taken to divide and store dataset = 0.0491399765015
+Time taken to sort all partitions and store them = 0.143650054932
+Time taken to perform first level of merging = 0.0962650775909
+Time taken to perform second level of merging = 0.0704522132874
+Time taken to perform last level of merging = 0.067939043045
+Total time taken for complete external sort = 0.445793867111
+Total time taken to perform simple merge sort = 0.10906291008
+
+Total number of integers in dataset = 100000
+Time taken to create dataset = 0.970747947693
+Time taken to divide and store dataset = 0.179641962051
+Time taken to sort all partitions and store them = 1.13177418709
+Time taken to perform first level of merging = 0.742933988571
+Time taken to perform second level of merging = 0.631756067276
+Time taken to perform last level of merging = 0.626724004745
+Total time taken for complete external sort = 3.33871889114
+Total time taken to perform simple merge sort = 1.26735401154
+
+Total number of integers in dataset = 1000000
+Time taken to create dataset = 9.8558280468
+Time taken to divide and store dataset = 1.84990000725
+Time taken to sort all partitions and store them = 13.2753150463
+Time taken to perform first level of merging = 7.65792298317
+Time taken to perform second level of merging = 6.76587486267
+Time taken to perform last level of merging = 6.64230799675
+Total time taken for complete external sort = 36.2685801983
+Total time taken to perform simple merge sort = 15.0997738838
+
+Total number of integers in dataset = 10000000
+Time taken to create dataset = 97.2937140465
+Time taken to divide and store dataset = 15.5573101044
+Time taken to sort all partitions and store them = 162.299161911
+Time taken to perform first level of merging = 75.5312311649
+Time taken to perform second level of merging = 65.6159160137
+Time taken to perform last level of merging = 62.6921868324
+Total time taken for complete external sort = 382.16394496
+Total time taken to perform simple merge sort = 178.165009975
+
+Total number of integers in dataset = 100000000
+Time taken to create dataset = 941.381801128
+Time taken to divide and store dataset = 154.130867958
+Time taken to sort all partitions and store them = 1911.81205297
+Time taken to perform first level of merging = 713.085615158
+Time taken to perform second level of merging = 606.043473959
+Time taken to perform last level of merging = 609.867820024
+Total time taken for complete external sort = 3999.32502079
+Total time taken to perform simple merge sort = 1920.10326695
+
+Total number of integers in dataset = 1000000000
